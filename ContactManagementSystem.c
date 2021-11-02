@@ -4,6 +4,7 @@
 #include<process.h>
 #include<stdlib.h>
 #include<dos.h>
+#include<ctype.h>
 
 struct contact
 {
